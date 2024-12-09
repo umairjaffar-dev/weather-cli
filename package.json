@@ -1,0 +1,19 @@
+{
+  "name": "cli-weather-app",
+  "version": "1.0.0",
+  "description": "This is the CLI Weather app created by Umair Jaffar.",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "weather-cli"
+  },
+  "keywords": [
+    "weather",
+    "cli"
+  ],
+  "author": "umair jaffar",
+  "license": "ISC"
+}
